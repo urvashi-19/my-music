@@ -13,93 +13,93 @@ let allMusic = [
     {
       name: "Into Your Arms",
       artist: "Witt Lowry",
-      img: "arms1.jpg",
-      src: "arms1"
+      img: "components/arms1.jpg",
+      src: "components/arms1"
     },
     {
       name: "Butter",
       artist: "Bts",
-      img: "butter.jpg",
-      src: "butter.mp3"
+      img: "components/butter.jpg",
+      src: "components/butter.mp3"
     },
     {
       name: "Closer Song The Chainsmokers",
       artist: "Chance The Rapper",
-      img: "closer.jpg",
-      src: "closer.mp3"
+      img: "components/closer.jpg",
+      src: "components/closer.mp3"
     },
     {
       name: "Despacito",
       artist: "Daddy Yankee and Luis Fonsi",
-      img: "descpacito.jpg",
-      src: "despacito.mp3"
+      img: "components/descpacito.jpg",
+      src: "components/despacito.mp3"
     },
     {
       name: "Shape Of You",
       artist: "Ed Sheeran",
-      img: "shape.jpg",
-      src: "shape.mp3"
+      img: "components/shape.jpg",
+      src: "components/shape.mp3"
     },
     {
       name: "Sugar and Brownies",
       artist: "Dharia",
-      img: "sugar.jpg",
-      src: "suga.mp3"
+      img: "components/sugar.jpg",
+      src: "components/suga.mp3"
     },
     {
       name: "Harley-In-Hawaii",
       artist: "Katy Perry",
-      img: "harley.jpg",
-      src: "harley.mp3"
+      img: "components/harley.jpg",
+      src: "components/harley.mp3"
     },
     {
       name: "Joker BGM",
       artist: "Dharani",
-      img: "joker.jpg",
-      src: "joker.mp3"
+      img: "components/joker.jpg",
+      src: "components/joker.mp3"
     },
     {
       name: "Love Nwantiti",
       artist: "Ckay",
-      img: "nwantiti.jpg",
-      src: "nwantiti.mp3"
+      img: "components/nwantiti.jpg",
+      src: "components/nwantiti.mp3"
     },
     {
       name: "Thunder--Imagine",
       artist: "Imagine Dragon",
-      img: "thunder.jpg",
-      src: "thunder.mp3"
+      img: "components/thunder.jpg",
+      src: "components/thunder.mp3"
     },
     {
       name: "Lovely",
       artist: "Billie Eilish and Khalid",
-      img: "lovely.jpg",
-      src: "lovely.mp3"
+      img: "components/lovely.jpg",
+      src: "components/lovely.mp3"
     },
     {
       name: "Mi-Gente",
       artist: "J Balvib and Willy William",
-      img: "mi.jpg",
-      src: "mi.mp3"
+      img: "components/mi.jpg",
+      src: "components/mi.mp3"
     },
     {
       name: "Stay-Kid-Laroi",
       artist: "Charlton Kenneth",
-      img: "stay.png",
-      src: "Stay-Kid-Laroi.mp3"
+      img: "components/stay.png",
+      src: "components/Stay-Kid-Laroi.mp3"
     },
     {
       name: "Senorita",
       artist: "Camila Cabello and Shawn Mendes",
-      img: "senorita.jpg",
-      src: "seno.mp3"
+      img: "components/senorita.jpg",
+      src: "components/seno.mp3"
     },
     {
       name: "One Kiss",
       artist: "Dua Lipa",
-      img: "one.jpg",
-      src: "One Kiss.mp3"
-    },
+      img: "components/one.jpg",
+      src: "components/One Kiss.mp3"
+    }
     
   
   ];
