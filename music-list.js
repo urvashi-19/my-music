@@ -14,7 +14,7 @@ let allMusic = [
       name: "Into Your Arms",
       artist: "Witt Lowry",
       img: "components/arms1.jpg",
-      src: "components/arms1"
+      src: "components/arms1.mp3"
     },
     {
       name: "Butter",
